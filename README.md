@@ -5,20 +5,8 @@ A modular Discord bot built with **Discord.js v14** and **Node.js**.
 ⚡ Slash commands · 📋 Guild event logging · 🎭 Automated role assignment
 
 [![Deploy on Bot-Hosting.net](https://img.shields.io/badge/Deploy-Bot--Hosting.net-orange?logo=discord&logoColor=white)](https://sanad.apps.bot-hosting.cloud/)
-[![License: MIT](https://img.shields.io/github/license/sanad-dev-bot/discord-bot-sanad)](./LICENSE)
-[![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)](https://discord.js.org)
 [![Node.js](https://img.shields.io/badge/node-22-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Lint](https://img.shields.io/github/actions/workflow/status/sanad-dev-bot/discord-bot-sanad/lint.yml?label=lint&logo=eslint)](./.github/workflows/lint.yml)
-[![Validate](https://img.shields.io/github/actions/workflow/status/sanad-dev-bot/discord-bot-sanad/validate.yml?label=validate&logo=githubactions&logoColor=white)](./.github/workflows/validate.yml)
-[![GitHub stars](https://img.shields.io/github/stars/sanad-dev-bot/discord-bot-sanad?style=flat&logo=github)](https://github.com/sanad-dev-bot/discord-bot-sanad)
-[![Last commit](https://img.shields.io/github/last-commit/sanad-dev-bot/discord-bot-sanad)](https://github.com/sanad-dev-bot/discord-bot-sanad)
-[![Repo size](https://img.shields.io/github/repo-size/sanad-dev-bot/discord-bot-sanad)](https://github.com/sanad-dev-bot/discord-bot-sanad)
 [![Support Server](https://img.shields.io/badge/Support-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/BMrh56BgcS)
-
-## 🧠 About
-
-This project is a hands-on Discord bot built to learn `discord.js` v14 in practice — no boilerplate generators, no all-in-one frameworks, just modular code you can read top to bottom. It's structured the way a small production bot would be: event handlers, slash commands, and a lightweight database are all auto-loaded and organized by category, so adding a new feature usually means dropping in a single file rather than editing a giant `index.js`.
-
 [![Architecture](https://img.shields.io/badge/architecture-event--driven-blueviolet)](./Events)
 [![Style guide](https://img.shields.io/badge/code%20style-eslint-4B32C3?logo=eslint&logoColor=white)](./eslint.config.js)
 
