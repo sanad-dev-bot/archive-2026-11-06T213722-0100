@@ -5,14 +5,14 @@ A modular Discord bot built with **Discord.js v14** and **Node.js**.
 ⚡ Slash commands · 📋 Guild event logging · 🎭 Automated role assignment
 
 [![Deploy on Bot-Hosting.net](https://img.shields.io/badge/Deploy-Bot--Hosting.net-orange?logo=discord&logoColor=white)](https://sanad.apps.bot-hosting.cloud/)
-[![License: MIT](https://img.shields.io/github/license/sanad-dev-bot/archive-2026-11-06T213722-0100)](./LICENSE)
+[![License: MIT](https://img.shields.io/github/license/sanad-dev-bot/discord-bot-sanad)](./LICENSE)
 [![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)](https://discord.js.org)
 [![Node.js](https://img.shields.io/badge/node-22-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Lint](https://img.shields.io/github/actions/workflow/status/sanad-dev-bot/archive-2026-11-06T213722-0100/lint.yml?label=lint&logo=eslint)](./.github/workflows/lint.yml)
-[![Validate](https://img.shields.io/github/actions/workflow/status/sanad-dev-bot/archive-2026-11-06T213722-0100/validate.yml?label=validate&logo=githubactions&logoColor=white)](./.github/workflows/validate.yml)
-[![GitHub stars](https://img.shields.io/github/stars/sanad-dev-bot/archive-2026-11-06T213722-0100?style=flat&logo=github)](https://github.com/sanad-dev-bot/archive-2026-11-06T213722-0100)
-[![Last commit](https://img.shields.io/github/last-commit/sanad-dev-bot/archive-2026-11-06T213722-0100)](https://github.com/sanad-dev-bot/archive-2026-11-06T213722-0100)
-[![Repo size](https://img.shields.io/github/repo-size/sanad-dev-bot/archive-2026-11-06T213722-0100)](https://github.com/sanad-dev-bot/archive-2026-11-06T213722-0100)
+[![Lint](https://img.shields.io/github/actions/workflow/status/sanad-dev-bot/discord-bot-sanad/lint.yml?label=lint&logo=eslint)](./.github/workflows/lint.yml)
+[![Validate](https://img.shields.io/github/actions/workflow/status/sanad-dev-bot/discord-bot-sanad/validate.yml?label=validate&logo=githubactions&logoColor=white)](./.github/workflows/validate.yml)
+[![GitHub stars](https://img.shields.io/github/stars/sanad-dev-bot/discord-bot-sanad?style=flat&logo=github)](https://github.com/sanad-dev-bot/discord-bot-sanad)
+[![Last commit](https://img.shields.io/github/last-commit/sanad-dev-bot/discord-bot-sanad)](https://github.com/sanad-dev-bot/discord-bot-sanad)
+[![Repo size](https://img.shields.io/github/repo-size/sanad-dev-bot/discord-bot-sanad)](https://github.com/sanad-dev-bot/discord-bot-sanad)
 [![Support Server](https://img.shields.io/badge/Support-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/BMrh56BgcS)
 
 ## 🧠 About
@@ -51,7 +51,7 @@ Want to try it without setting it up locally? Deploy it in one click as a commun
 **1.** Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/sanad-dev-bot/archive-2026-11-06T213722-0100 discord-bot-sanad
+git clone https://github.com/sanad-dev-bot/discord-bot-sanad
 
 cd discord-bot-sanad
 
