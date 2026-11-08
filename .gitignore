@@ -1,0 +1,13 @@
+node_modules/
+.env
+data/
+*.zip
+
+.env.example
+.staging/
+.musictest/
+.npm/
+.bh-history/
+warns.json
+database/
+config.json
